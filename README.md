@@ -4,3 +4,5 @@ This gitbook is for my personal scribble notes that I keep when I learn new tech
 
 Refer to the [Official Guide](https://vuejs.org/v2/guide/index.html) for more details and use this book for quick reference only...
 
+Vue.js is a **progressive framework **for building user interfaces.
+
