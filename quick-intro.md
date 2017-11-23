@@ -3,22 +3,26 @@
 Below are few Programming Paradigms which are keep seeing whenever we drill down the web to look for different technologies. Listing them here for quick reference.
 
 ## [Functional Programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+
 Functional programming is about writing pure functions, about removing hidden inputs and outputs as far as we can, so that as much of our code as possible just describes a relationship between inputs and outputs.
 
 Using functions, the output value of a function depends only on the arguments that are passed to the function. Calling a function twice with the same argument values will produce the same result.
 
 ## [Reactive Programming](https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382)
+
 Reactive programming is a Asynchronous Programming Paradigm around data flows and the propagation of change. This means that it should be possible to express static or dynamic data flows with ease in the programming languages used, and that the underlying execution model will automatically propagate changes through the data flow.
 
 In MVC architecture, Reactive Programming can facilitate change in an underlying modal that automatically reflected in an associated view.
 
 ## [Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
-It is a programming paradigm for Reactive Programming(Asynchronous dataflow programming) using the build block of Functional Programming(ex: map, reduce, filter)
+
+It is a programming paradigm for Reactive Programming\(Asynchronous dataflow programming\) using the build block of Functional Programming\(ex: map, reduce, filter\)
 
 ## Declarative Programming
+
 Declarative programming is when you write your code in such a way that it describes what you want to do, and not how you want to do it. It is left up to the compiler to figure out the how.
 
-```Javascript
+```js
 const string = "Hello World"
 const urlString = string.replace(/ /g, '-')
 
@@ -57,3 +61,6 @@ A Progressive Web App \(PWA\) uses modern web capabilities to deliver an app-lik
   * Allow users to “keep” apps they find most useful on their home screen without the hassle of an app store.
 * **Linkable**
   * Easily share via URL and not require complex installation
+
+
+
