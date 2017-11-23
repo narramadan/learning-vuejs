@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Quick Intro](quick-intro.md)
+  * [Quick Intro on Different Programming Paradigms](quick-intro.md)
 
