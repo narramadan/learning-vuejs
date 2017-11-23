@@ -46,8 +46,6 @@ for(var i=0;i<string.length;i++){
 // We need to study the code to understand what is being done
 ```
 
-# Frameworks
-
 ## Progressive Framework {#progressive-framework}
 
 #### Quick intro on what is Progressive Framework
