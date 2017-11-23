@@ -12,8 +12,8 @@ Reactive programming is a Asynchronous Programming Paradigm around data flows an
 
 In MVC architecture, Reactive Programming can facilitate change in an underlying modal that automatically reflected in an associated view.
 
-
 ## [Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+It is a programming paradigm for Reactive Programming(Asynchronous dataflow programming) using the build block of Functional Programming(ex: map, reduce, filter)
 
 ## Declarative Programming
 
