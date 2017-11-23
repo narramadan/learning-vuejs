@@ -16,6 +16,9 @@ In MVC architecture, Reactive Programming can facilitate change in an underlying
 It is a programming paradigm for Reactive Programming(Asynchronous dataflow programming) using the build block of Functional Programming(ex: map, reduce, filter)
 
 ## Declarative Programming
+Declarative programming is when you write your code in such a way that it describes what you want to do, and not how you want to do it. It is left up to the compiler to figure out the how.
+
+Examples of declarative programming languages are SQL and Prolog.
 
 ## Imperative Programming
 
