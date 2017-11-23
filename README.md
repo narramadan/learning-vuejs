@@ -4,7 +4,9 @@ This gitbook is for my personal scribble notes that I keep when I learn new tech
 
 Definition from the official guide for Vue
 
-> Vue.js is a **progressive framework **for building user interfaces.
+> Vue\(pronounced /vjuː/, like **view **\) is a **progressive framework **for building user interfaces.
+
+
 
 
 
