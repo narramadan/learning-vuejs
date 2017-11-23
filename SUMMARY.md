@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Programming Paradigms](programming-paradigms.md)
+  * [Programming Paradigms](programming-paradigms.md)
 

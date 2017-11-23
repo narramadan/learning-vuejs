@@ -4,5 +4,3 @@ Below are few Programming Paradigms which are keep seeing whenever we drill down
 
 
 
-
-
