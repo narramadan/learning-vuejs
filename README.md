@@ -6,5 +6,5 @@ Definition from the official guide for Vue
 
 > Vue\(pronounced /vjuː/, like **view **\) is a **progressive framework **for building user interfaces.
 
-More on [Progressive Framework](/programming-paradigms.md#progressive-framework)
+More on [Progressive Framework](/quick-intro.md#progressive-framework)
 
