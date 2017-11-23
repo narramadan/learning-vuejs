@@ -18,7 +18,14 @@ It is a programming paradigm for Reactive Programming(Asynchronous dataflow prog
 ## Declarative Programming
 Declarative programming is when you write your code in such a way that it describes what you want to do, and not how you want to do it. It is left up to the compiler to figure out the how.
 
-Examples of declarative programming languages are SQL and Prolog.
+```Javascript
+const string = "Hello World"
+const urlString = string.replace(/ /g, '-')
+
+// string.replace -> this is declarative. We know what is being done
+```
+
+
 
 ## Imperative Programming
 
