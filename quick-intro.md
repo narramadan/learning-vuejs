@@ -2,11 +2,17 @@
 
 Below are few Programming Paradigms which are keep seeing whenever we drill down the web to look for different technologies. Listing them here for quick reference.
 
-## Functional Programming
+## [Functional Programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+Functional programming is about writing pure functions, about removing hidden inputs and outputs as far as we can, so that as much of our code as possible just describes a relationship between inputs and outputs.
 
-## Reactive Programming
+Using functions, the output value of a function depends only on the arguments that are passed to the function. Calling a function twice with the same argument values will produce the same result.
 
-## Functional Reactive Programming
+## [Reactive Programming](https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382)
+Reactive programming is a programming paradigm oriented around data flows and the propagation of change. This means that it should be possible to express static or dynamic data flows with ease in the programming languages used, and that the underlying execution model will automatically propagate changes through the data flow.
+
+In simple words, In Rx programming data flows emitted by one component and the underlying structure provided by the Rx libraries will propagate those changes to another component those are registered to receive those data changes. Long story short: Rx is made up of three key points.
+
+## [Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
 ## Declarative Programming
 
