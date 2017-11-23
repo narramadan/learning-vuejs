@@ -10,7 +10,7 @@ Using functions, the output value of a function depends only on the arguments th
 ## [Reactive Programming](https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382)
 Reactive programming is a Asynchronous Programming Paradigm around data flows and the propagation of change. This means that it should be possible to express static or dynamic data flows with ease in the programming languages used, and that the underlying execution model will automatically propagate changes through the data flow.
 
-In MVC architecture, Reactive Programming can facilitate change in an underlying modal that automatically reflected in an associated view
+In MVC architecture, Reactive Programming can facilitate change in an underlying modal that automatically reflected in an associated view.
 
 
 ## [Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
