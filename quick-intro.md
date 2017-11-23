@@ -31,6 +31,8 @@ const urlString = string.replace(/ /g, '-')
 
 ## Imperative Programming
 
+
+
 # Frameworks
 
 ## Progressive Framework {#progressive-framework}
