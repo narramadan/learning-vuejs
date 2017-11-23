@@ -18,7 +18,7 @@ In MVC architecture, Reactive Programming can facilitate change in an underlying
 
 It is a programming paradigm for Reactive Programming\(Asynchronous dataflow programming\) using the build block of Functional Programming\(ex: map, reduce, filter\)
 
-## Declarative Programming
+## [Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 
 Declarative programming is when you write your code in such a way that it describes what you want to do, and not how you want to do it. It is left up to the compiler to figure out the how.
 
@@ -29,7 +29,7 @@ const urlString = string.replace(/ /g, '-')
 // string.replace -> this is declarative. We know what is being done
 ```
 
-## Imperative Programming
+## [Imperative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 
 It is a style of programming that is only concerned with how to achieve results with code.
 
@@ -46,7 +46,7 @@ for(var i=0;i<string.length;i++){
 // We need to study the code to understand what is being done
 ```
 
-## Progressive Framework {#progressive-framework}
+## [Progressive Framework](https://developers.google.com/web/updates/2015/12/getting-started-pwa) {#progressive-framework}
 
 #### Quick intro on what is Progressive Framework
 
