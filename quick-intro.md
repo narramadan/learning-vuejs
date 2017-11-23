@@ -25,8 +25,6 @@ const urlString = string.replace(/ /g, '-')
 // string.replace -> this is declarative. We know what is being done
 ```
 
-
-
 ## Imperative Programming
 
 # Frameworks
