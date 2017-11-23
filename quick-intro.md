@@ -31,6 +31,8 @@ const urlString = string.replace(/ /g, '-')
 
 ## Imperative Programming
 
+It is a style of programming that is only concerned with how to achieve results with code
+
 
 
 # Frameworks
