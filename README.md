@@ -62,9 +62,9 @@ C:\Work\Learning\Vue\sample>dir
 
 Run `yarn install` to download dependencies and get project ready for development and testing.
 
-Below are commands that are available: 
+Below are commands that are available:
 
-* `yarn dev` or `yarn start` will start vue-loader and can access it using http://localhost:8080
+* `yarn dev` or `yarn start` will start vue-loader and can access it using [http://localhost:8080](http://localhost:8080)
 * `yarn unit` will run the unit test cases and will display code coverage
 * `yarn e2e` will run end-2-end automation test suite - TODO
 * `yarn build` will build production deployment project structure
