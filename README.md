@@ -9,3 +9,11 @@ Definition from the official guide for Vue
 More on [Progressive Framework](/quick-intro.md#progressive-framework)
 
 
+
+
+
+Download a .pdf, .epub, or .mobi file from:
+
+https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
