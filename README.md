@@ -10,7 +10,9 @@ Definition from the official guide for Vue
 
 More on [Progressive Framework](/quick-intro.md#progressive-framework)
 
-**Setting up development environment**
+# **Setting up development environment**
+
+## Install Vue Command Line Interface
 
 We will use [Yarn](https://yarnpkg.com/en/) as our Package Manager and [Webpack](https://webpack.js.org/) as our Module Bundler. We use [vue-cli](https://github.com/vuejs/vue-cli) to scaffold our project.
 
@@ -93,6 +95,16 @@ static/css/app.bf9a994c72151daa5e919b0f3ccdc900.css.map  828 bytes          [emi
 
 Done in 41.93s.
 ```
+
+## Install Visual Studio Code Extension
+
+Developing UI based projects in Visual Studio Code is fun and easy. Its lightweight and has plugin based architecture build on top of Github's Atom.
+
+Install extension `Vetur` . This provides auto-completion, debugging, error-checking, linting, snipperts, syntax-highlighting and many more.
+
+Run `code .` in the sample folder to open Visual Studio Code and load the project structure by default. Install the extension by clicking `Ctrl+P` on Windows or `Command+P` on Mac and run command `ext install vetur`. Click on `Install` which will start installing the extension. Wait for sometime for it to be downloaded and installed.
+
+
 
 
 
