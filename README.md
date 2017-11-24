@@ -12,6 +12,19 @@ More on [Progressive Framework](/quick-intro.md#progressive-framework)
 
 **Setting up development environment**
 
+We will use [Yarn](https://yarnpkg.com/en/) as our Package Manager and [Webpack](https://webpack.js.org/) as our Module Bundler. We use [vue-cli](https://github.com/vuejs/vue-cli) to scaffold our project.
+
+For all the above tools, we need to ensure that we have Node and NPM installed.
+
+Download and Install Node. 
+
+* Verify if Node is working by running `node -v`
+* Verify if NPM is working by running `npm -v`
+
+Install Yarn by running `npm install -g yarn`
+
+
+
 
 
 ---
