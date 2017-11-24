@@ -27,7 +27,7 @@ Install vue-cli by running `npm install --global vue-cli`
 
 Run `vue init webpack sample` to create a sample project which will have a full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 
-> vue init &lt;template-name&gt; &lt;project-name&gt; - We use webpack Template. Other templates can also be used. Vist vue-cli github page for more information
+> vue init &lt;template-name&gt; &lt;project-name&gt; - We use [webpack Template](http://vuejs-templates.github.io/webpack/). Other templates can also be used. Vist vue-cli github page for more information
 
 I choose `standard` ESLint template and `jest` for unit tests.
 
@@ -60,7 +60,39 @@ C:\Work\Learning\Vue\sample>dir
                7 Dir(s)  187,680,985,088 bytes free
 ```
 
-Run `yarn install` to download dependencies
+Run `yarn install` to download dependencies and get project ready for development and testing.
+
+Below are commands that are available: 
+
+* `yarn dev` or `yarn start` will start vue-loader and can access it using http://localhost:8080
+* `yarn unit` will run the unit test cases and will display code coverage
+* `yarn e2e` will run end-2-end automation test suite - TODO
+* `yarn build` will build production deployment project structure
+
+```bash
+yarn run v1.1.0
+$ node build/build.js
+Hash: decafbb41b162d5a062b
+Version: webpack 3.8.1
+Time: 24297ms
+                                                  Asset       Size  Chunks             Chunk Names
+               static/js/vendor.7a500e2803f3ee04c53e.js     120 kB       0  [emitted]  vendor
+                  static/js/app.936bb6172fb0431042aa.js    11.5 kB       1  [emitted]  app
+             static/js/manifest.cd73ec71b99a6df7c14e.js    1.49 kB       2  [emitted]  manifest
+    static/css/app.bf9a994c72151daa5e919b0f3ccdc900.css  432 bytes       1  [emitted]  app
+static/css/app.bf9a994c72151daa5e919b0f3ccdc900.css.map  828 bytes          [emitted]
+           static/js/vendor.7a500e2803f3ee04c53e.js.map     971 kB       0  [emitted]  vendor
+              static/js/app.936bb6172fb0431042aa.js.map    37.9 kB       1  [emitted]  app
+         static/js/manifest.cd73ec71b99a6df7c14e.js.map    14.2 kB       2  [emitted]  manifest
+                                             index.html  508 bytes          [emitted]
+
+  Build complete.
+
+  Tip: built files are meant to be served over an HTTP server.
+  Opening index.html over file:// won't work.
+
+Done in 41.93s.
+```
 
 
 
