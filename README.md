@@ -108,7 +108,7 @@ Run `code .` in the sample folder to open Visual Studio Code and load the projec
 
 `Google Chrome` is the browser which I prefer for my development purpose. Install [`Vue.js Dev Tool`](https://github.com/vuejs/vue-devtools) and [`DejaVue` ](http://dejavue.co/)extensions.
 
-These extensions help in debugging and visualize state of Vue app.
+These extensions help in debugging and visualize Vue.js app during development.
 
 ---
 
