@@ -104,7 +104,7 @@ Install extension `Vetur` . This provides auto-completion, debugging, error-chec
 
 Run `code .` in the sample folder to open Visual Studio Code and load the project structure by default. Install the extension by clicking `Ctrl+P` on Windows or `Command+P` on Mac and run command `ext install vetur`. Click on `Install` which will start installing the extension. Wait for sometime for it to be downloaded and installed.
 
-
+## Install Browser Extension
 
 
 
