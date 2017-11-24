@@ -25,7 +25,9 @@ Install Yarn by running `npm install -g yarn`
 
 Install vue-cli by running `yarn global add vue-cli`
 
+Run `vue init webpack sample` to create a sample project which will have a full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 
+> vue init &lt;template-name&gt; &lt;project-name&gt; - We use webpack Template. Other templates can also be used. Vist vue-cli github page for more information
 
 ---
 
