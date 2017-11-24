@@ -16,14 +16,14 @@ We will use [Yarn](https://yarnpkg.com/en/) as our Package Manager and [Webpack]
 
 For all the above tools, we need to ensure that we have Node and NPM installed.
 
-Download and Install Node. 
+Download and Install Node.
 
 * Verify if Node is working by running `node -v`
 * Verify if NPM is working by running `npm -v`
 
 Install Yarn by running `npm install -g yarn`
 
-
+Install vue-cli by running `yarn global add vue-cli`
 
 
 
